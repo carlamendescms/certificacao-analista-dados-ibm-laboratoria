@@ -20,7 +20,7 @@ O modelo de aprendizagem é inspirado em três princípios:
 
 ### 1. Estatística para Ciência de Dados e Machine Learning
 
-* População e amostra
+* [População e amostra](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/estatistica/01-populacao-e-amostra.md)
 * Dados relativos e absolutos
 * Distribuição e frequência
 * Medidas de posição e dispersão
