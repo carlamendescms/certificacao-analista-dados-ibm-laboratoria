@@ -1,8 +1,9 @@
-# [Certificação Analista de Dados | IBM + Laboratoria](https://www.laboratoria.la/br/certificacao-analise-de-dados)
+#  <a href="https://www.laboratoria.la/br/certificacao-analise-de-dados" target="_blank"> Certificação Analista de Dados | IBM + Laboratoria </a>
+
 
 Este repositório contem as notas de aulas dos cursos e os projetos desenvolvidos durante a Certificação de Análise de Dados | IBM + Laboratoria.
 
-# Sobre a Certificação Analista de Dados - IBM + Laboratoria
+# Sobre a Certificação
 
 
 O programa tem como objetivo desenvolver habilidades altamente solicitadas pelas empresas, tais como: estatística e planilhas, tratamente de dados com SQL, visualização de dados e decisões de negócio e como proposta de valor obter Certificação Analista de Dados emitida pela IBM.
@@ -15,11 +16,10 @@ O modelo de aprendizagem é inspirado em três princípios:
 * Aprendizagem colaborativa
 * Aprender fazendo
 
-
-
 # Trilha de Aprendizagem da Certificação 
 
 ### 1. Estatística para Ciência de Dados e Machine Learning
+
 * População e amostra
 * Dados relativos e absolutos
 * Distribuição e frequência
@@ -41,7 +41,7 @@ O modelo de aprendizagem é inspirado em três princípios:
 ### 6. Análise avançada com Python
 
 
-# Projetos
+# Projetos Desenvolvidos
 
 ### 1. Excesso de mortes por COVID-19
 
