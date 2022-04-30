@@ -1,3 +1,8 @@
+# Projeto 01 - Excesso de mortes por Covid-19 na América Latina
+
+Analisar e calcular o excesso de mortes em 5 países da América Latina com o objetivo de fazer comparações com as
+mortes causadas por COVID-19.
+
 # Descrição do Problema
 
 A COVID-19 causou surtos, hospitalizações, mortes, perdas econômicas e de empregos, danos psicológicos e uma série de outros efeitos. 
@@ -17,17 +22,21 @@ Em outras palavras, o excesso de mortes (em comparação com uma estimativa dos 
 
 # Contexto e Objetivos
 
-Analisar e calcular o excesso de mortes em 5 países da América Latina com o objetivo de fazer comparações com as
-mortes causadas por COVID-19.
-
-Após entender o contexto descrito no brief, desenvolver uma uma apresentação conforme guia detalhado.
+Após entender o contexto descrito no [brief](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/c613ea569f7ea966a6ce89d9e28760853bd316bc/projetos/01%20-%20Excesso%20de%20mortes%20por%20COVID/%5BPT%5D%20Projeto%201%20COVID%20-%20Brief%20do%20Projeto.pdf), desenvolver uma uma apresentação conforme [guia detalhado](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/c613ea569f7ea966a6ce89d9e28760853bd316bc/projetos/01%20-%20Excesso%20de%20mortes%20por%20COVID/%5BPT%5D%20Guia%20-%20An%C3%A1lise%20Excesso%20de%20Mortes%20COVID-19.pdf).
 
 Responder aos seguintes questionamentos:
 
 1. Considerando os valores por 100.000 habitantes, em que país há a **maior diferença** entre os óbitos oficiais de COVID notificados e os excedentes estimados de óbitos?
+    - O _Peru_ apresenta a maior diferença entre os óbitos oficiais de COVID notificados e os excedentes estimados de óbitos.
+
+
 2. Considerando os valores por 100.000 habitantes, em que país existe a **menor diferença** entre os óbitos oficiais por COVID notificados e os excedentes estimados de
 óbitos?
+    - O _México_ apresenta menor diferença entre os óbitos oficiais por COVID notificados e os excedentes estimados de óbitos.
+
 3. Considerando os valores por 100.000 habitantes, qual é o país com o **maior número de óbitos excedentes**?
+
+    - O _Peru_ apresenta o maior número de óbitos excedentes.
 
 # Análise desenvolvida e breve apresentação 
 

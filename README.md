@@ -43,12 +43,12 @@ O modelo de aprendizagem é inspirado em três princípios:
 
 # Projetos Desenvolvidos
 
-### 1. Excesso de mortes por COVID-19
+## 1. [Excesso de mortes por COVID-19](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/01%20-%20Excesso%20de%20mortes%20por%20COVID/projeto01.md)
 
 
 * Realizar uma estimativa de mortes por COVID-19 na América Latina.
 
-### 2. Retenção de startup tecnológica
+## 2. Retenção de startup tecnológica
 
 
 * Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
