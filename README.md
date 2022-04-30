@@ -48,7 +48,7 @@ O modelo de aprendizagem é inspirado em três princípios:
 
 * Realizar uma estimativa de mortes por COVID-19 na América Latina.
 
-## 2. Retenção de startup tecnológica
+## 2. [Retenção de startup tecnológica](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/4988452855c4c6f0bb8a47f32c683dda2da27b78/projetos/02%20-%20Reten%C3%A7%C3%A3o%20de%20startup%20tecnol%C3%B3gica/projeto02.md)
 
 
 * Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
