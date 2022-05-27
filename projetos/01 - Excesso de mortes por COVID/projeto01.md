@@ -1,7 +1,13 @@
 # Projeto 01 - Excesso de mortes por Covid-19 na América Latina
 
-Analisar e calcular o excesso de mortes em 5 países da América Latina com o objetivo de fazer comparações com as
-mortes causadas por COVID-19.
+Analisar e calcular o excesso de mortes em 5 países da América Latina com o objetivo de fazer comparações com as mortes causadas por COVID-19.
+
+## Finalidade da Aprendizagem
+
+- Manipular dados em planilhas
+- Organizar dados em planilhas
+- Organizar e comunicar descobertas
+- Visualizar dados em planilhas
 
 # Descrição do Problema
 
@@ -41,5 +47,7 @@ Responder aos seguintes questionamentos:
 # Análise desenvolvida e breve apresentação 
 
 Aqui você poderá visualizar um breve vídeo explicativo sobre o trabalho desenvolvido: [Vídeo](https://www.loom.com/share/8448d6ef9deb435da704abb9a8f81740)
+
+
 
 Aqui você poderá acessar a [análise desenvolvida no Google Sheets](https://docs.google.com/spreadsheets/d/1T2caF_pqK8Jl65czIFJWAHF9iOJZ3vz7QKrcsYSB1xg/edit?usp=sharing)
