@@ -17,4 +17,24 @@ Neste projeto, é necessário realizar uma análise com base em um conjunto de d
 
 # Contexto e Objetivos
 
+Após analisar o contexto do problema descrito no [Kaggle](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-2-reteno-de-startup-tecnolgica) com apoio do [Guia Detalhado](https://www.kaggle.com/code/datacertlaboratoria/guia-de-resolu-o-projeto-2/notebook) é possível responder as seguintes perguntas:
+
+1. Você acha que deveria triplicar seu investimento em aquisição de usuários?
+
+Não.
+
+2. Por que você considera isso? Mostre claramente seus resultados suportados por sua planilha ou uma apresentação.
+
+Como a taxa de retenção encontra-se abaixo de 60% após 14 meses, mesmo já tendo-se feito investimentos na obtenção do clientes, é necessário avaliar cuidadosamente as estratégias de implementação do produto e resolução de problemas proposto por ele.
+
+3. Quais recomendações você tem para a CEO?
+
+Provavelmente o mais importante nesse momento deveria ser adequar o produto atualmente as reais necessidades dos clientes, caso o problema que ele resolva ainda seja importante.
+
 # Análise desenvolvida e breve apresentação 
+
+Aqui você poderá visualizar um breve vídeo explicativo sobre o trabalho desenvolvido: [Vídeo](https://www.loom.com/share/57baed993c8c4ecabd238198a8123ff5?sharedAppSource=personal_library)
+
+
+
+Aqui você poderá acessar a [análise desenvolvida no Google Sheets](https://docs.google.com/spreadsheets/d/1IBoXgBXp_HUYAQ9-a7IPYUOMZdvi9XupwOWwMpWjA28/edit?usp=sharing)
