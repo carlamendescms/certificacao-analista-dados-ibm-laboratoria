@@ -16,19 +16,23 @@ O modelo de aprendizagem é inspirado em três princípios:
 * Aprendizagem colaborativa
 * Aprender fazendo
 
-# Trilha de Aprendizagem da Certificação 
+# Projetos Desenvolvidos
+
+## 1. [Excesso de mortes por COVID-19](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/01%20-%20Excesso%20de%20mortes%20por%20COVID/projeto01.md)
+
+
+* Realizar uma estimativa de mortes por COVID-19 na América Latina.
+
+## 2. [Retenção de clientes de Startup](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/02%20-%20Reten%C3%A7%C3%A3o%20de%20startup%20tecnol%C3%B3gica/projeto02.md)
+
+
+* Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
+
+# Trilha de Aprendizagem da Certificação (Cursos)
 
 ### 1. Estatística para Ciência de Dados e Machine Learning
 
-* [População e amostra](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/estatistica/01-populacao-e-amostra.md)
-* Dados relativos e absolutos
-* Distribuição e frequência
-* Medidas de posição e dispersão
-* Distribuições estatísticas
-* Probabilidade
-* Intervalo de confiança e testes de hipóteses
-* Correlação e regressão
-* Visualização
+O curso tem aproximadamente 20h e está disponível neste [link](https://ibmcsr.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/)
 
 ### 2. Google Sheets
 
@@ -41,14 +45,4 @@ O modelo de aprendizagem é inspirado em três princípios:
 ### 6. Análise avançada com Python
 
 
-# Projetos Desenvolvidos
 
-## 1. [Excesso de mortes por COVID-19](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/01%20-%20Excesso%20de%20mortes%20por%20COVID/projeto01.md)
-
-
-* Realizar uma estimativa de mortes por COVID-19 na América Latina.
-
-## 2. [Retenção de clientes de Startup](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/02%20-%20Reten%C3%A7%C3%A3o%20de%20startup%20tecnol%C3%B3gica/projeto02.md)
-
-
-* Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
