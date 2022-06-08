@@ -26,3 +26,6 @@ Após analisar o contexto do problema descrito no [Kaggle](https://www.kaggle.co
 6. Qual porcentagem de seus clientes voltou a comprar? 
 7. Como esta informação é desagregada de acordo com os países onde vocês vendem?
 
+# Resolução utilizando Python
+
+
