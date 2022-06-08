@@ -23,8 +23,11 @@ O modelo de aprendizagem é inspirado em três princípios:
 
 ## 2. [Retenção de clientes de Startup](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/02%20-%20Reten%C3%A7%C3%A3o%20de%20startup%20tecnol%C3%B3gica/projeto02.md)
 
-
 * Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
+
+## 3. [Segmentação de clientes de um e-commerce](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/45404b0cd7379e51972fa16e615b2cb0e959f525/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/projeto03.md)
+
+* Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
 
 # Trilha de Aprendizagem da Certificação (Cursos)
 
@@ -41,6 +44,5 @@ O curso tem aproximadamente 20h e está disponível neste [link](https://ibmcsr.
 ### 5. Power BI - Do básico ao avançado
 
 ### 6. Análise avançada com Python
-
 
 
