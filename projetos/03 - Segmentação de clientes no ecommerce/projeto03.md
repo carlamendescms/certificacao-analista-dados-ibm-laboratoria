@@ -26,6 +26,8 @@ Após analisar o contexto do problema descrito no [Kaggle](https://www.kaggle.co
 6. Qual porcentagem de seus clientes voltou a comprar? 
 7. Como esta informação é desagregada de acordo com os países onde vocês vendem?
 
-# Resolução utilizando Python
+# [Resolução utilizando Python](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/29a14c4269e9529a8b86cc0c0060945e50524315/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb)
+
+Você pode encontrar a resolução deste projeto nesse [notebook Jupyter](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/29a14c4269e9529a8b86cc0c0060945e50524315/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb).
 
 
