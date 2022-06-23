@@ -29,6 +29,8 @@ O modelo de aprendizagem é inspirado em três princípios:
 
 * Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
 
+- Apresentação deste projeto em [Notebook Jupyter](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/d12b1feaa9bbee8c305c5994f6e590be2fe7ec17/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb).
+
 # Trilha de Aprendizagem da Certificação (Cursos)
 
 ### 1. Estatística para Ciência de Dados e Machine Learning
