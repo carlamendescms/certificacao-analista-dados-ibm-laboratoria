@@ -19,17 +19,19 @@ O modelo de aprendizagem é inspirado em três princípios:
 ## 1. [Excesso de mortes por COVID-19](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/01%20-%20Excesso%20de%20mortes%20por%20COVID/projeto01.md)
 
 
-* Realizar uma estimativa de mortes por COVID-19 na América Latina.
+Realizar uma estimativa de mortes por COVID-19 na América Latina.
 
 ## 2. [Retenção de clientes de Startup](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/main/projetos/02%20-%20Reten%C3%A7%C3%A3o%20de%20startup%20tecnol%C3%B3gica/projeto02.md)
 
-* Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
+Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
 
 ## 3. [Segmentação de clientes de um e-commerce](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/0c00d30b49be86ba221511b2124ee51ca24288f2/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/projeto03.md)
 
-* Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
+Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
 
-- Apresentação deste projeto em [Notebook Jupyter](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/d12b1feaa9bbee8c305c5994f6e590be2fe7ec17/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb).
+- Solução deste projeto em [Notebook Jupyter](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/d12b1feaa9bbee8c305c5994f6e590be2fe7ec17/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb).
+
+
 
 # Trilha de Aprendizagem da Certificação (Cursos)
 
