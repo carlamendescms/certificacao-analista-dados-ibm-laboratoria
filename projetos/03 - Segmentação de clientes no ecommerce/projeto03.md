@@ -28,6 +28,36 @@ Após analisar o contexto do problema descrito no [Kaggle](https://www.kaggle.co
 
 # [Resolução utilizando Python](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/29a14c4269e9529a8b86cc0c0060945e50524315/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb)
 
+## Este projeto está divido em 4 partes:
+
+### Pré processamento dos dados
+
+- Revisar a qualidade do banco de dados, remover dados duplicados que não façam sentido, encontrar dados ausentes e substituí-los/removê-los e procurar dados não correspondentes (por exemplo, números negativos em colunas que normalmente são números positivos). 
+
+- O pré-processamento dos dados é uma etapa fundamental e básica em todas as análises de dados.
+
+O item 2 neste notebook abrangerá essa parte.
+
+### Análise Exploratória
+
+- Utilizar uma ferramenta de visualização, no caso o Google Data Studio, e fazer gráficos, resumir e estruturar as informações mais relevantes.
+
+- A ideia é poder mostrar visualmente as principais características do conjunto de dados, com foco em métricas de vendas como as listadas por seu chefe no briefing.
+
+O item 3 irá auxiliar na criação dos gráficos.
+
+### Análise de Coorte
+
+- Aplicar uma análise de coorte para clientes britânicos e estrangeiros para ver qual dos dois públicos tem os clientes mais leais.
+
+O notebook Jupyter 02 - Análise de coorte de clientes contem a análise de coorte gerada.
+
+### Segmentação de clientes
+
+- Segmentar seus clientes com base em três características: Recência, Frequência e Valor Monetário.
+
+O notebook Jupyter 03 - Segmentação de clientes usando RFM irá apresentar a segmentação dos clientes e terá como resultado a categorização deles.
+
 Você pode encontrar a resolução deste projeto nesse [notebook Jupyter](https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria/blob/29a14c4269e9529a8b86cc0c0060945e50524315/projetos/03%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce/segmentacao-clientes-ecommerce.ipynb)
 
 
