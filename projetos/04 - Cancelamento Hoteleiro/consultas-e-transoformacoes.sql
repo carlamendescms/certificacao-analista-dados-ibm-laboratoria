@@ -1,6 +1,6 @@
-  # Seção 3 
+  -- Seção 3 
   
-# Transformando dados e adicionando campos calculados # Criando coluna com ano, mês e dia concatenados
+-- Transformando dados e adicionando campos calculados -- Criando coluna com ano, mês e dia concatenados
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -10,7 +10,7 @@ FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel`; 
   
   
-# Criando coluna com estação DO ano
+-- Criando coluna com estação DO ano
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -29,7 +29,7 @@ FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; 
   
   
-# Criando segmentação de lead_time
+-- Criando segmentação de lead_time
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -43,7 +43,7 @@ SELECT
 END
   AS lead_time_segment
 FROM
-  `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; # Criando conversão de coluna mês para tipo número
+  `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; -- Criando conversão de coluna mês para tipo número
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -67,7 +67,7 @@ END
 FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; 
   
-# Concatenando DATA usando a coluna de mês que foi convertida para número
+-- Concatenando DATA usando a coluna de mês que foi convertida para número
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -76,14 +76,14 @@ SELECT
 FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; 
   
-# Alterando o tipo para DATE para que essa coluna seja usada nas análises
+-- Alterando o tipo para DATE para que essa coluna seja usada nas análises
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
   *,
   CAST(arrival_date_v2 AS DATE) AS arrival_date_v3
 FROM
-  `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; # Criando coluna booking_date
+  `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; -- Criando coluna booking_date
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -92,8 +92,8 @@ SELECT
 FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; 
   
-# 5.1 Calculando o impacto de um cancelamento devido ao pagamento de comissão de MKT 
-# Criando tabela 'hotel-impacto-cancelamento'
+-- 5.1 Calculando o impacto de um cancelamento devido ao pagamento de comissão de MKT 
+-- Criando tabela 'hotel-impacto-cancelamento'
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-impacto-cancelamento` AS
 SELECT
@@ -109,10 +109,10 @@ GROUP BY
 ORDER BY
   booking_date; 
   
-# 5.2 Impacto de um cancelamento feito com menos de 3 dias de antecedência 
-# Criando tabela 'canceled_bookings_days_diff' 
+-- 5.2 Impacto de um cancelamento feito com menos de 3 dias de antecedência 
+-- Criando tabela 'canceled_bookings_days_diff' 
 
-# A tabela gerada será usada na 'Consulta 5.2 - Cancelamentos com menos de 3 dias de antecedência'
+-- A tabela gerada será usada na 'Consulta 5.2 - Cancelamentos com menos de 3 dias de antecedência'
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -124,11 +124,11 @@ FROM
 WHERE
   is_canceled = 1; 
 
-# HIPÓTESES # 
+-- HIPÓTESES -- 
 
-# 6.1 Hipótese 1: Reservas feitas com antecedência correm alto risco de cancelamento
+-- 6.1 Hipótese 1: Reservas feitas com antecedência correm alto risco de cancelamento
 
-# A Tabela gerada será usada na Consulta 6.1
+-- A Tabela gerada será usada na Consulta 6.1
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -150,10 +150,10 @@ END
 FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; 
   
-# 6.3 Hipótese 3: Os usuários que fizeram uma alteração em sua reserva têm menor risco de cancelamento 
-# Criando segmentação para quantidade de alterações realizadas na reserva
+-- 6.3 Hipótese 3: Os usuários que fizeram uma alteração em sua reserva têm menor risco de cancelamento 
+-- Criando segmentação para quantidade de alterações realizadas na reserva
 
-# A Tabela gerada será usada na Consulta 6.3
+-- A Tabela gerada será usada na Consulta 6.3
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -168,10 +168,10 @@ END
 FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`; 
   
-# 6.4 Hipótese 4: Quando o usuário fez uma solicitação especial, o risco de cancelamento é menor 
-# Criando segmentação de quantidades de solicitação especial por reserva
+-- 6.4 Hipótese 4: Quando o usuário fez uma solicitação especial, o risco de cancelamento é menor 
+-- Criando segmentação de quantidades de solicitação especial por reserva
 
-# A Tabela gerada será usada na Consulta 6.4
+-- A Tabela gerada será usada na Consulta 6.4
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
@@ -187,10 +187,10 @@ END
 FROM
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise`;
 
-# 6.5 Hipótese 5: As reservas que possuem um baixo "adr" o risco é menor 
-# Criando segmentação de valores médios por reserva
+-- 6.5 Hipótese 5: As reservas que possuem um baixo "adr" o risco é menor 
+-- Criando segmentação de valores médios por reserva
 
-# A Tabela gerada será usada na Consulta 6.5
+-- A Tabela gerada será usada na Consulta 6.5
 CREATE OR REPLACE TABLE
   `analise-cancelamento-hoteleiro.projeto004.hotel-analise` AS
 SELECT
